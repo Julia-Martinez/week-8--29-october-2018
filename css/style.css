@@ -8,3 +8,7 @@ h1 {
    letter-spacing: 4px;
    word-spacing: 8px;
 }
+
+span {
+   letter-spacing: -4px;
+}
