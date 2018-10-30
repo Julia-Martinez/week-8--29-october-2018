@@ -1,0 +1,10 @@
+body {
+   font-size: 32px;
+   text-align: center;
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+   letter-spacing: 4px;
+   word-spacing: 8px;
+}
